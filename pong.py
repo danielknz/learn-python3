@@ -2,7 +2,7 @@ import turtle
 
 # Set up the screen
 wn = turtle.Screen()
-wn.title("Daniel Pong")
+wn.title("Daniel Pong Game")
 wn.bgcolor("Black")
 wn.setup(width=1000, height=800)
 wn.tracer(0)
