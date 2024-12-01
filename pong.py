@@ -5,8 +5,8 @@ wn = turtle.Screen()
 wn.title("Daniel Pong Game")
 wn.bgcolor("Black")
 wn.setup(width=1000, height=800)
-wn.tracer(0)
-
+wn.tracer(10)
+ 
 # Paddle A
 paddle_a = turtle.Turtle()
 paddle_a.speed(0)
